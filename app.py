@@ -36,7 +36,7 @@ model = load_model(MODEL_PATH)
 
 
 
-model1 = pickle.load(open("RandomForestClassifier_1.pkl", 'rb'))
+model1 = pickle.load(open("RandomForestClassifier_10.pkl", 'rb'))
 
 
 
